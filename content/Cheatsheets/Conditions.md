@@ -1,9 +1,8 @@
 ---
 tags:
   - Cheatsheet
+  - DnD-2014
 ---
-
-
 Conditions alter a creature's capabilities in a variety of ways and can arise as a result of a spell, a class feature, a monster's attack, or other effect. Most conditions, such as [[#Blinded]], are impairments, but a few, such as [[#Invisible]], can be advantageous.
 
 A condition lasts either until it is countered (the [[#Prone]] condition is countered by standing up, for example) or for a duration specified by the effect that imposed the condition.
