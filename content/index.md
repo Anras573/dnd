@@ -1,17 +1,17 @@
 ---
 title: 🐲⚔️ Anbora DnD
 ---
-
+Link til [[Systemer vi Overvejer]]
 ## Next Session
 
 `26. Januar 2025`
-- GM: Anders
-- System: DnD 2014
+- GM: `Anders`
+- System: `DnD 2014`
 - One-shot: `Death is Only the Beginning?`
 
 `??? Februar 2025`
-- GM: Christian
-- System: DnD 2014
+- GM: `Christian`
+- System: `DnD 2014`
 - Campaign: `Critical Role: Call of the Netherdeep`
 
 ## Faraos Togt
