@@ -4,11 +4,11 @@ title: 🐲⚔️ Anbora DnD
 Link til [[Systemer vi Overvejer]]
 ## Næste Session
 
-`28 Juni 2025`
+`29 December 2026`
 - GM: `Anders`
-- System: `Vampire the Masquerade`
-- Campaign: `The Monsters`
-- Relevante Cheatsheets: [[Vampire the Masquerade]]
+- System: `Brætspil`
+- Campaign: `Nemesis`
+- Relevante Cheatsheets: [Nemesis BordGameGeek](https://boardgamegeek.com/boardgame/167355/nemesis)
 ## Relevante Informationer
 
 - [[Cheatsheets/index|Cheatsheets]]
